@@ -1,0 +1,277 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.a {
+    margin-top: 70px;
+    margin-left: 12px;
+}
+
+.zg {
+    height: 265px;
+    width: 1300px;
+    border-radius: 1.5rem;
+}
+
+.b {
+    margin-top: 12px;
+    margin-left: 65px;
+    font-size: 22px;
+    font-style: normal;
+    color: black;
+}
+
+.d {
+    font-size: 28px;
+    margin-top: 16px;
+    margin-left: 71px;
+    color: lightpink;
+}
+
+.e {
+    display: flex;
+    gap: 1.2rem;
+    margin-left: 71px;
+    font-size: 20px;
+    margin-top: 18px;
+}
+
+a {
+    color: black;
+    text-transform: capitalize;
+    text-decoration: none;
+}
+
+.k {
+    margin-top: 35px;
+}
+
+.l {
+    margin-left: 450px;
+    font-size: 32px;
+    color: black;
+}
+
+.lm {
+    display: flex;
+    gap: 2.5rem;
+    margin-left: 135px;
+    margin-top: 20px;
+    font-size: 22px;
+}
+
+.m {
+    max-width: 900px;
+    width: 450px;
+    height: 33px;
+    color: white;
+    background: grey;
+    text-align: center;
+    border-top-right-radius: 2.6px;
+    border-top-left-radius: 1.6rem;
+}
+
+.n {
+        max-width: 900px;
+        width: 450px;
+        height: 33px;
+        color: white;
+        background: grey;
+        text-align: center;
+        border-top-right-radius: 2.6px;
+        border-top-left-radius: 1.6rem;
+}
+
+.o {
+    display: flex;
+    gap: 2.5rem;
+    margin-left: 135px;
+    margin-top: 20px;
+    font-size: 22px;
+}
+
+.p {
+    max-width: 900px;
+    width: 450px;
+    height: 33px;
+    color: white;
+    background: grey;
+    text-align: center;
+    border-top-right-radius: 2.6px;
+    border-top-left-radius: 1.6rem;
+}
+
+.q {
+    max-width: 900px;
+    width: 450px;
+    height: 33px;
+    color: white;
+    background: grey;
+    text-align: center;
+    border-top-right-radius: 2.6px;
+    border-top-left-radius: 1.6rem;
+}
+
+.r {
+    display: flex;
+    gap: 2.5rem;
+    margin-left: 135px;
+    margin-top: 20px;
+    font-size: 22px;
+}
+
+.s {
+    max-width: 900px;
+    width: 450px;
+    height: 33px;
+    color: white;
+    background: grey;
+    text-align: center;
+    border-top-right-radius: 2.6px;
+    border-top-left-radius: 1.6rem;
+}
+
+.t {
+    max-width: 900px;
+    width: 450px;
+    height: 33px;
+    color: white;
+    background: grey;
+    text-align: center;
+    border-top-right-radius: 2.6px;
+    border-top-left-radius: 1.6rem;
+}
+
+.u {
+    display: flex;
+    gap: 2.5rem;
+    margin-left: 135px;
+    margin-top: 20px;
+    font-size: 22px;
+}
+
+.v {
+    max-width: 900px;
+    width: 450px;
+    height: 33px;
+    color: white;
+    background: grey;
+    text-align: center;
+    border-top-right-radius: 2.6px;
+    border-top-left-radius: 1.6rem;
+}
+
+.w {
+    max-width: 900px;
+    width: 450px;
+    height: 33px;
+    color: white;
+    background: grey;
+    text-align: center;
+    border-top-right-radius: 2.6px;
+    border-top-left-radius: 1.6rem;
+}
+
+.x {
+    display: flex;
+    gap: 2.5rem;
+    margin-left: 135px;
+    margin-top: 20px;
+    font-size: 22px;
+}
+.y {
+    max-width: 900px;
+    width: 450px;
+    height: 33px;
+    color: white;
+    background: grey;
+    text-align: center;
+    border-top-right-radius: 2.6px;
+    border-top-left-radius: 1.6rem;
+}
+
+.z {
+    max-width: 900px;
+    width: 450px;
+    height: 33px;
+    color: white;
+    background: grey;
+    text-align: center;
+    border-top-right-radius: 2.6px;
+    border-top-left-radius: 1.6rem;
+}
+
+.za {
+    display: flex;
+    gap: 2.5rem;
+    margin-left: 135px;
+    margin-top: 20px;
+    font-size: 22px;
+}
+
+
+.zb {
+    max-width: 900px;
+    width: 450px;
+    height: 33px;
+    color: white;
+    background: grey;
+    text-align: center;
+    border-top-right-radius: 2.6px;
+    border-top-left-radius: 1.6rem;
+}
+
+.zc {
+    max-width: 900px;
+    width: 450px;
+    height: 33px;
+    color: white;
+    background: grey;
+    text-align: center;
+    border-top-right-radius: 2.6px;
+    border-top-left-radius: 1.6rem;
+}
+
+.zd {
+    display: flex;
+    gap: 2.5rem;
+    margin-left: 135px;
+    margin-top: 20px;
+    font-size: 22px;
+}
+.ze {
+    max-width: 900px;
+    width: 450px;
+    height: 33px;
+    color: white;
+    background: grey;
+    text-align: center;
+    border-top-right-radius: 2.6px;
+    border-top-left-radius: 1.6rem;
+}
+
+.zf {
+    max-width: 900px;
+    width: 450px;
+    height: 33px;
+    color: white;
+    background: grey;
+    text-align: center;
+    border-top-right-radius: 2.6px;
+    border-top-left-radius: 1.6rem;
+}
+
+footer {
+    display: flex;
+    gap: 4.5rem;
+    margin-left: 135px;
+    margin-top: 75px;
+}
+
+.f28 {
+    display: flex;
+    gap: 2.5rem;
+    margin-top: 55px;
+    margin-left: 1000px;
+}

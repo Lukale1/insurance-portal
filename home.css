@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding: 0;
+    background: darkcyan;
+}
+
+.b {
+    font-size: 45px;
+    margin-top: 75px;
+    margin-left: 45px;
+    height: 45px;
+    width: 1250px;
+    background: darkgrey;
+    border-radius: 7.5px;
+}
+
+.ba {
+    margin-top: 15px;
+    margin-right: 55px;
+
+}
+
+.c {
+    display: flex;
+    gap: 2.5rem;
+    margin-left: 46px;
+}
+
+.e {
+    border-radius: 7.5px;
+    height: 420px;
+    width:280px;
+}
+
+.i {
+    border-radius: 7.5px;
+    height: 420px;
+    width:280px;
+}
+
+.m {
+    border-radius: 7.5px;
+    height: 420px;
+    width:280px;
+}
+
+.q {
+    border-radius: 7.5px;
+    height: 420px;
+    width:280px;
+}
+
+.f {
+    margin-left: 28px;
+}
+
+.j {
+    margin-left: 47.5px;
+}
+
+.n {
+    margin-left: 40px;
+}
+
+.r {
+    margin-left: 95px;
+}
+
+.g {
+    margin-left: 96px;
+}
+
+.k {
+    margin-left: 90px;
+}
+
+.o {
+    margin-left: 143px;
+}
+
+
+.s {
+    margin-left: 120px;
+}
+
+a {
+    text-align: center;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: yellowgreen;
+}
+
+a:hover {
+    color: black;
+}
+
+footer {
+    display: flex;
+    gap: 4.5rem;
+    margin-top: 45px;
+    margin-left: 175px;
+}
+
+.f28 {
+    margin-top: 25px;
+    margin-left: 1050px;
+}
+
+.copy1 {
+    margin-top: 75px;
+    margin-left: 45px;
+}

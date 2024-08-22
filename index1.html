@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+         <script>
+    function loadMenu() {
+      fetch('menu.html')
+        .then(response => response.text())
+        .then(data => {
+          document.getElementById('menu-container').innerHTML = data;
+        });
+    }
+    window.onload = loadMenu;
+  </script>
+</head>
+<body>
+    <div id="menu-container"></div>
+  <h1>Welcome to the Home Page</h1>
+</body>
+</html>

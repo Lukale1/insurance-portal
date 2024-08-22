@@ -1,0 +1,109 @@
+* {
+    margin: 0;
+    padding: 0;
+    background: white;
+}
+.abcd {
+    margin-left: 170px;
+    margin-top: 160px;
+    background: white;
+    height: 500px;
+    width: 540px;
+    border-radius: 3.5px;
+}
+
+a {
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 22px;
+    font-style: italic;
+    color: black;
+}
+
+.cbd {
+    display: flex;
+    gap: 1.5rem;
+}
+
+.c {
+    margin-top: 22px;
+    font-size: 18px;
+    color: black;
+    font-style: normal;
+    background: white;
+}
+
+.e {
+    background: white;
+}
+
+
+.d {
+    margin-top: 24px;
+    font-size: 18px;
+    color: black;
+    font-style: normal;
+    max-width: 410px;
+    margin-bottom: 22px;
+}
+
+.i {
+    margin-top: 16px;
+    font-size: 18px;
+    font-style: normal;
+    color: black;
+    background: white;
+}
+
+
+
+.f {
+    font-size: 18px;
+}
+
+.k {
+    width: 420px;
+    height: 29.9px;
+    background: lightcoral;
+    text-align: center;
+    margin-left: 4.7px;
+    border-radius: 0.4rem;
+    margin-top: 12px;
+}
+
+.m {
+    margin-top: 135px;
+    margin-left: 0.5px;
+    height: 340px;
+    width: 450px;
+    border-radius: 1.9px;
+}
+
+.asdf {
+    display: flex;
+    gap: 0;
+    margin-bottom: 0;
+}
+
+.o {
+    /* height: 100px;
+    width: 150px; */
+    color: black;
+    /* background: pink; */
+    margin-left: 595px;
+    margin-top: 1px;
+}
+
+.o a:hover {
+    color: pink;
+}
+
+.n {
+    margin-left: 20px;
+    margin-top: 1.5px;
+}
+
+.no {
+    margin-top: 1px;
+    margin-left: 525px;
+}
